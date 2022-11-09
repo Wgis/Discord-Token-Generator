@@ -11,7 +11,7 @@ Follow my GitHub : https://github.com/FemellesV11
 
 **More updates will happen !**
 
-# How to use
+# How to use 
 
 Need python 3.5 to 3.7 ( download here : https://www.python.org/downloads/ ).
 - Start "install.bat".
